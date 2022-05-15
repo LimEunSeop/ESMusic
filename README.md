@@ -2,6 +2,10 @@
 
 EcmaScript 와 ESModule 을 좋아하는 ES의 음악 작업히스토리 저장 공간.
 
+## 음악 List
+
+- [첫 테스트 작업 (Chopin Nocturne Op.9, No.2)](https://raw.githubusercontent.com/LimEunSeop/ESMusic/main/TestRecording/FirstProject%20-%202022%3A05%3A13%207.45%20PM.m4a)
+
 ## 장비
 
 가상악기를 사용하는 순간 악기 그 자체의 스피커의 성능은 의미가 없다. 건반이 클래식악기의 타건감을 그대로 재현했느냐 그것만 따지면 됨. 비싼 악기를 살 돈으로 오디오 인터페이스를 사고 좋은 스피커를 사면 훨씬 저렴하면서 즐겁게 음악을 즐길 수 있음.
